@@ -1,18 +1,18 @@
 {
-    "appTitle": "Deutscher Sprachpaketinstaller",
-    "appWelcomeMessage": "Dieses Plugin installiert Sprachdefinitionen für die deutsche Sprache in Pentaho",
-    "language": "Deutsch",
-    "languageCode": "de",
+    "appTitle": "@$Gebietsschema@ Sprachpaketinstaller",
+    "appWelcomeMessage": "Dieses Plugin installiert Sprachdefinitionen für die @$Gebietsschema@ Sprache in Pentaho",
+    "language": "@$Gebietsschema@",
+    "languageCode": "en_US",
     "pentahoVersion": "6.0.0",
     "maturity": {
         "lane": "Community",
         "phase": "2"
     },
     "maintainer": {
-        "name": "",
-        "email": "",
+        "name": "Marc Okrand",
+        "email": "Marc.Okrand@gmail.com",
         "img": "",
-        "url": ""
+        "url": "http://www.google.com"
     },
     "credits": [{
         "name": "",

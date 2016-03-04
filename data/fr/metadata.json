@@ -1,18 +1,18 @@
 {
-    "appTitle": "Programme d'installation de la langue française",
-    "appWelcomeMessage": "Ce plugin installe les définitions de la langue pour la langue française dans Pentaho",
-    "language": "France",
-    "languageCode": "fr",
+    "appTitle": "Programme d'installation de la langue @$locale@",
+    "appWelcomeMessage": "Ce plugin installe les définitions de la langue pour la langue @$locale@ dans Pentaho",
+    "language": "@$locale@",
+    "languageCode": "fr_FR",
     "pentahoVersion": "6.0.0",
     "maturity": {
-        "lane": "Community",
+        "lane": "Communauté",
         "phase": "2"
     },
     "maintainer": {
-        "name": "",
-        "email": "",
+        "name": "Marc Okrand",
+        "email": "Marc.Okrand@gmail.com",
         "img": "",
-        "url": ""
+        "url": "http://www.google.com"
     },
     "credits": [{
         "name": "",
